@@ -8,6 +8,12 @@
 
 ⚡ I am currently learning SQL and working on scraped groceries data analysis for my bachelor's. 
 
+### Tools and Languages
+- Python
+- R 
+- SQL
+- Tableu
+
 <!--
 **Deividasbu/Deividasbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
