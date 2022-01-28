@@ -7,7 +7,7 @@
 - [Aruodas.lt Scraper](https://github.com/Deividasbu/Scraper_Aruodas)
 
 ### Present
-⚡ I am currently learning SQL and working on scraped groceries data analysis (over 4 month of daily data) for my bachelor's. 
+⚡ I am currently learning SQL and working on scraped groceries data analysis (over 4 months of daily data) for my bachelor's. 
 
 ### Tools and languages I work with
 - Python
