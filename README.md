@@ -4,6 +4,7 @@
 - [US 2016 Elections Primaries Analysis](https://github.com/Deividasbu/US-2016-President-Elections)
 - [Lituanian Covid Data Analysis Using R](https://github.com/Deividasbu/Covid-Data-Analysis-Using-R)
 - [Natural Language Processing for Products Clustering](https://github.com/Deividasbu/NLP-for-Products-Clustering)
+- [Aruodas.lt Scraper](https://github.com/Deividasbu/Scraper_Aruodas)
 
 <!--
 **Deividasbu/Deividasbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
