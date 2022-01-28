@@ -15,7 +15,7 @@
 - SQL
 - Tableu
 
-Connect to me here - 
+Connect with me:  
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dbutkus/)
 <!--
 **Deividasbu/Deividasbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
