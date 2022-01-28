@@ -6,6 +6,8 @@
 - [Natural Language Processing for Products Clustering](https://github.com/Deividasbu/NLP-for-Products-Clustering)
 - [Aruodas.lt Scraper](https://github.com/Deividasbu/Scraper_Aruodas)
 
+⚡ I am currently learning SQL and working on scraped groceries data analysis for my bachelor's. 
+
 <!--
 **Deividasbu/Deividasbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
