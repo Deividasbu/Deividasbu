@@ -6,9 +6,10 @@
 - [Natural Language Processing for Products Clustering](https://github.com/Deividasbu/NLP-for-Products-Clustering)
 - [Aruodas.lt Scraper](https://github.com/Deividasbu/Scraper_Aruodas)
 
-⚡ I am currently learning SQL and working on scraped groceries data analysis for my bachelor's. 
+### Present
+⚡ I am currently learning SQL and working on scraped groceries data analysis (over 4 month of daily data collection) for my bachelor's. 
 
-### Tools and Languages
+### Tools and languages I work with
 - Python
 - R 
 - SQL
