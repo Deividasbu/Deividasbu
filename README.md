@@ -8,7 +8,8 @@
 
 ### Present
 ⚡ I am currently learning SQL and working on scraped groceries data analysis (over 4 months of daily data) for my bachelor's. 
-
+- [My last project using SQL - Podcast Reviews Analysis](https://github.com/Deividasbu/Podcast-reviews-analysis-using-SQL)
+  
 ### Tools and languages I work with
 - Python
 - R 
